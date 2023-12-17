@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [https://mhjohn.com/](https://mhjohn.com/)
+- 👨‍💻 All of my projects are available at [https://mhjohn.com/](https://bizzflare.mhjohn.com/)
 
-- 📝 I regularly write articles on [https://blog.mhjohn.com/](https://blog.mhjohn.com/)
+- 📝 I regularly write articles
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Git, Laravel**
 
 - 📫 How to reach me **johnsubcse@gmail.com**
 
-- 📄 Know about my experiences [https://mhjohn.com/](https://mhjohn.com/)
+- 📄 Know about my experiences [https://mhjohn.com/](https://bizzflare.mhjohn.com/)
 
 - ⚡ Fun fact **I think I am funny =‘•..•’= **
 
