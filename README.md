@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [Visit Me](https://bizzflare.mhjohn.com/)
+- 👨‍💻 All of my projects are available at [Visit Me](https://mhjohn.xyz/)
 
 - 📝 I regularly write articles
 
