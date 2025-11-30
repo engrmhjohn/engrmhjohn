@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **johnsubcse@gmail.com**
 
-- 📄 Know about my experiences [Visit Me](https://bizzflare.mhjohn.com/)
+- 📄 Know about my experiences [Visit Me](https://mhjohn.xyz/)
 
 - ⚡ Fun fact **I think I am funny =‘•..•’= **
 
@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/engmhjohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrmhjohn" height="30" width="40" /></a>
 <a href="https://fb.com/engrmhjohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrmhjohn" height="30" width="40" /></a>
 <a href="https://instagram.com/m_h_j_o_h_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_h_j_o_h_n" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mehedihasanjohn614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehedihasanjohn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nottutorial25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mehedihasanjohn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
